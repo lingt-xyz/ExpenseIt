@@ -1,2 +1,2 @@
 # ExpenseIt
-WPF test
+WPF component
